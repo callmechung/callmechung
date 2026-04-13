@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+My name is Trung, and I'm a 3rd-year Computer Engineering student at HCMUT-VNU. 
+
+- 🔭 **I’m currently working on:** A Smart Greenhouse IoT system and an P2P Hybrid Async App chat.
+- 🌱 **I’m currently learning:** **IC Design** and **DSP**  – this is my main focus and top priority for my future career path.
+- 👯 **I’m looking to collaborate on:** Integrated Circuit (IC) design projects, microchip development, and hardware innovations.
+- 🤔 **I’m looking for help with:** Deepening my research, hands-on experience, and finding opportunities in IC design.
+- 💬 **Ask me about:** Embedded C/C++, Arduino, STM32, ESP32, Altium Designer!
+- 📫 **How to reach me:** Email me at [nvtrungforwork@gmail.com](mailto:nvtrungforwork@gmail.com) (preferred) or [trungtxtc28032005@gmail.com](mailto:trungtxtc28032005@gmail.com).
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** When I'm not coding or wiring circuits, I'm probably keeping up with my Push/Pull/Legs X Upper/Lower workout routine, or meal prepping!
 <!--
 **callmechung/callmechung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
